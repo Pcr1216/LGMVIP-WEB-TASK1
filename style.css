@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    height:50px;
+}
+
+h1{
+    color: black;
+    padding-bottom: 25px;
+}
+.my-3{
+    padding-top: 50px;
+}
+.add-note{
+    color: black;
+}
+.fa-trash-can{
+    color: black !important;
+    
+}
+.bg-primary{
+    background-color: #d0cece !important;
+}
